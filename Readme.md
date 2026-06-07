@@ -58,7 +58,7 @@ Python 3.x required.
 ### 2. Run script
 
 ```bash
-python bible_merge.py
+python Dual_bible_cue_xml.py
 ```
 
 ---
